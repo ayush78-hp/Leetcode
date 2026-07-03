@@ -50,4 +50,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0380-insert-delete-getrandom-o1](https://github.com/ayush78-hp/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
+## Two Pointers
+|  |
+| ------- |
+| [0125-valid-palindrome](https://github.com/ayush78-hp/Leetcode/tree/master/0125-valid-palindrome) |
+## String
+|  |
+| ------- |
+| [0125-valid-palindrome](https://github.com/ayush78-hp/Leetcode/tree/master/0125-valid-palindrome) |
 <!---LeetCode Topics End-->
