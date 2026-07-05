@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/ayush78-hp/Leetcode/tree/master/0001-two-sum) |
+| [0013-roman-to-integer](https://github.com/ayush78-hp/Leetcode/tree/master/0013-roman-to-integer) |
 | [0380-insert-delete-getrandom-o1](https://github.com/ayush78-hp/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 ## Dynamic Programming
 |  |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/ayush78-hp/Leetcode/tree/master/0013-roman-to-integer) |
 | [0380-insert-delete-getrandom-o1](https://github.com/ayush78-hp/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 ## Design
 |  |
@@ -59,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/ayush78-hp/Leetcode/tree/master/0013-roman-to-integer) |
 | [0125-valid-palindrome](https://github.com/ayush78-hp/Leetcode/tree/master/0125-valid-palindrome) |
 | [0392-is-subsequence](https://github.com/ayush78-hp/Leetcode/tree/master/0392-is-subsequence) |
 <!---LeetCode Topics End-->
