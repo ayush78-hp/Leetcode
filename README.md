@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0134-gas-station](https://github.com/ayush78-hp/Leetcode/tree/master/0134-gas-station) |
 | [0274-h-index](https://github.com/ayush78-hp/Leetcode/tree/master/0274-h-index) |
 | [0380-insert-delete-getrandom-o1](https://github.com/ayush78-hp/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/ayush78-hp/Leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -64,4 +65,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/ayush78-hp/Leetcode/tree/master/0013-roman-to-integer) |
 | [0125-valid-palindrome](https://github.com/ayush78-hp/Leetcode/tree/master/0125-valid-palindrome) |
 | [0392-is-subsequence](https://github.com/ayush78-hp/Leetcode/tree/master/0392-is-subsequence) |
+## Binary Search
+|  |
+| ------- |
+| [0852-peak-index-in-a-mountain-array](https://github.com/ayush78-hp/Leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 <!---LeetCode Topics End-->
