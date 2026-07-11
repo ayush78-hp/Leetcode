@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/ayush78-hp/Leetcode/tree/master/0001-two-sum) |
 | [0035-search-insert-position](https://github.com/ayush78-hp/Leetcode/tree/master/0035-search-insert-position) |
 | [0045-jump-game-ii](https://github.com/ayush78-hp/Leetcode/tree/master/0045-jump-game-ii) |
+| [0047-permutations-ii](https://github.com/ayush78-hp/Leetcode/tree/master/0047-permutations-ii) |
 | [0055-jump-game](https://github.com/ayush78-hp/Leetcode/tree/master/0055-jump-game) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ayush78-hp/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0134-gas-station](https://github.com/ayush78-hp/Leetcode/tree/master/0134-gas-station) |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0047-permutations-ii](https://github.com/ayush78-hp/Leetcode/tree/master/0047-permutations-ii) |
 | [0274-h-index](https://github.com/ayush78-hp/Leetcode/tree/master/0274-h-index) |
 ## Counting Sort
 |  |
@@ -87,4 +89,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0374-guess-number-higher-or-lower](https://github.com/ayush78-hp/Leetcode/tree/master/0374-guess-number-higher-or-lower) |
+## Backtracking
+|  |
+| ------- |
+| [0047-permutations-ii](https://github.com/ayush78-hp/Leetcode/tree/master/0047-permutations-ii) |
 <!---LeetCode Topics End-->
