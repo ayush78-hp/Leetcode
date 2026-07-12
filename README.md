@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ayush78-hp/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0274-h-index](https://github.com/ayush78-hp/Leetcode/tree/master/0274-h-index) |
 | [0380-insert-delete-getrandom-o1](https://github.com/ayush78-hp/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
+| [0704-binary-search](https://github.com/ayush78-hp/Leetcode/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/ayush78-hp/Leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 ## Hash Table
 |  |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/ayush78-hp/Leetcode/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ayush78-hp/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0374-guess-number-higher-or-lower](https://github.com/ayush78-hp/Leetcode/tree/master/0374-guess-number-higher-or-lower) |
+| [0704-binary-search](https://github.com/ayush78-hp/Leetcode/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/ayush78-hp/Leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 ## Interactive
 |  |
