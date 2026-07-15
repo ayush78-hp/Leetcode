@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/ayush78-hp/Leetcode/tree/master/0001-two-sum) |
 | [0035-search-insert-position](https://github.com/ayush78-hp/Leetcode/tree/master/0035-search-insert-position) |
+| [0040-combination-sum-ii](https://github.com/ayush78-hp/Leetcode/tree/master/0040-combination-sum-ii) |
 | [0045-jump-game-ii](https://github.com/ayush78-hp/Leetcode/tree/master/0045-jump-game-ii) |
 | [0047-permutations-ii](https://github.com/ayush78-hp/Leetcode/tree/master/0047-permutations-ii) |
 | [0055-jump-game](https://github.com/ayush78-hp/Leetcode/tree/master/0055-jump-game) |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0040-combination-sum-ii](https://github.com/ayush78-hp/Leetcode/tree/master/0040-combination-sum-ii) |
 | [0047-permutations-ii](https://github.com/ayush78-hp/Leetcode/tree/master/0047-permutations-ii) |
 ## Divide and Conquer
 |  |
