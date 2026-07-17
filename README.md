@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/ayush78-hp/Leetcode/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/ayush78-hp/Leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0912-sort-an-array](https://github.com/ayush78-hp/Leetcode/tree/master/0912-sort-an-array) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/ayush78-hp/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Hash Table
 |  |
 | ------- |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/ayush78-hp/Leetcode/tree/master/0075-sort-colors) |
 | [0274-h-index](https://github.com/ayush78-hp/Leetcode/tree/master/0274-h-index) |
 | [0912-sort-an-array](https://github.com/ayush78-hp/Leetcode/tree/master/0912-sort-an-array) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/ayush78-hp/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Counting Sort
 |  |
 | ------- |
@@ -63,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/ayush78-hp/Leetcode/tree/master/0013-roman-to-integer) |
 | [0069-sqrtx](https://github.com/ayush78-hp/Leetcode/tree/master/0069-sqrtx) |
 | [0380-insert-delete-getrandom-o1](https://github.com/ayush78-hp/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/ayush78-hp/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Design
 |  |
 | ------- |
@@ -79,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/ayush78-hp/Leetcode/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ayush78-hp/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0392-is-subsequence](https://github.com/ayush78-hp/Leetcode/tree/master/0392-is-subsequence) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/ayush78-hp/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## String
 |  |
 | ------- |
@@ -126,4 +130,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0912-sort-an-array](https://github.com/ayush78-hp/Leetcode/tree/master/0912-sort-an-array) |
+## Simulation
+|  |
+| ------- |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/ayush78-hp/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+## Number Theory
+|  |
+| ------- |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/ayush78-hp/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 <!---LeetCode Topics End-->
