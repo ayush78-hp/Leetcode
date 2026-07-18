@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0134-gas-station](https://github.com/ayush78-hp/Leetcode/tree/master/0134-gas-station) |
 | [0162-find-peak-element](https://github.com/ayush78-hp/Leetcode/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ayush78-hp/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0189-rotate-array](https://github.com/ayush78-hp/Leetcode/tree/master/0189-rotate-array) |
 | [0274-h-index](https://github.com/ayush78-hp/Leetcode/tree/master/0274-h-index) |
 | [0380-insert-delete-getrandom-o1](https://github.com/ayush78-hp/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0704-binary-search](https://github.com/ayush78-hp/Leetcode/tree/master/0704-binary-search) |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/ayush78-hp/Leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/ayush78-hp/Leetcode/tree/master/0013-roman-to-integer) |
 | [0069-sqrtx](https://github.com/ayush78-hp/Leetcode/tree/master/0069-sqrtx) |
+| [0189-rotate-array](https://github.com/ayush78-hp/Leetcode/tree/master/0189-rotate-array) |
 | [0380-insert-delete-getrandom-o1](https://github.com/ayush78-hp/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/ayush78-hp/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Design
@@ -81,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/ayush78-hp/Leetcode/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/ayush78-hp/Leetcode/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ayush78-hp/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0189-rotate-array](https://github.com/ayush78-hp/Leetcode/tree/master/0189-rotate-array) |
 | [0392-is-subsequence](https://github.com/ayush78-hp/Leetcode/tree/master/0392-is-subsequence) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/ayush78-hp/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## String
