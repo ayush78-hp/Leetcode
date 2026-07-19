@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/ayush78-hp/Leetcode/tree/master/0015-3sum) |
 | [0035-search-insert-position](https://github.com/ayush78-hp/Leetcode/tree/master/0035-search-insert-position) |
 | [0040-combination-sum-ii](https://github.com/ayush78-hp/Leetcode/tree/master/0040-combination-sum-ii) |
+| [0042-trapping-rain-water](https://github.com/ayush78-hp/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/ayush78-hp/Leetcode/tree/master/0045-jump-game-ii) |
 | [0047-permutations-ii](https://github.com/ayush78-hp/Leetcode/tree/master/0047-permutations-ii) |
 | [0055-jump-game](https://github.com/ayush78-hp/Leetcode/tree/master/0055-jump-game) |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/ayush78-hp/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/ayush78-hp/Leetcode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/ayush78-hp/Leetcode/tree/master/0055-jump-game) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ayush78-hp/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -80,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/ayush78-hp/Leetcode/tree/master/0015-3sum) |
+| [0042-trapping-rain-water](https://github.com/ayush78-hp/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/ayush78-hp/Leetcode/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/ayush78-hp/Leetcode/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ayush78-hp/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -141,4 +144,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/ayush78-hp/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+## Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/ayush78-hp/Leetcode/tree/master/0042-trapping-rain-water) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/ayush78-hp/Leetcode/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
