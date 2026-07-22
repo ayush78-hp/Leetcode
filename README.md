@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/ayush78-hp/Leetcode/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/ayush78-hp/Leetcode/tree/master/0189-rotate-array) |
 | [0380-insert-delete-getrandom-o1](https://github.com/ayush78-hp/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
+| [0441-arranging-coins](https://github.com/ayush78-hp/Leetcode/tree/master/0441-arranging-coins) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/ayush78-hp/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Design
 |  |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0278-first-bad-version](https://github.com/ayush78-hp/Leetcode/tree/master/0278-first-bad-version) |
 | [0374-guess-number-higher-or-lower](https://github.com/ayush78-hp/Leetcode/tree/master/0374-guess-number-higher-or-lower) |
 | [0436-find-right-interval](https://github.com/ayush78-hp/Leetcode/tree/master/0436-find-right-interval) |
+| [0441-arranging-coins](https://github.com/ayush78-hp/Leetcode/tree/master/0441-arranging-coins) |
 | [0704-binary-search](https://github.com/ayush78-hp/Leetcode/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/ayush78-hp/Leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 ## Interactive
