@@ -163,4 +163,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1260-shift-2d-grid](https://github.com/ayush78-hp/Leetcode/tree/master/1260-shift-2d-grid) |
+## Database
+|  |
+| ------- |
+| [0584-find-customer-referee](https://github.com/ayush78-hp/Leetcode/tree/master/0584-find-customer-referee) |
 <!---LeetCode Topics End-->
