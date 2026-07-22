@@ -109,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/ayush78-hp/Leetcode/tree/master/0069-sqrtx) |
 | [0162-find-peak-element](https://github.com/ayush78-hp/Leetcode/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ayush78-hp/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0278-first-bad-version](https://github.com/ayush78-hp/Leetcode/tree/master/0278-first-bad-version) |
 | [0374-guess-number-higher-or-lower](https://github.com/ayush78-hp/Leetcode/tree/master/0374-guess-number-higher-or-lower) |
 | [0436-find-right-interval](https://github.com/ayush78-hp/Leetcode/tree/master/0436-find-right-interval) |
 | [0704-binary-search](https://github.com/ayush78-hp/Leetcode/tree/master/0704-binary-search) |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Interactive
 |  |
 | ------- |
+| [0278-first-bad-version](https://github.com/ayush78-hp/Leetcode/tree/master/0278-first-bad-version) |
 | [0374-guess-number-higher-or-lower](https://github.com/ayush78-hp/Leetcode/tree/master/0374-guess-number-higher-or-lower) |
 ## Backtracking
 |  |
