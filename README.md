@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/ayush78-hp/Leetcode/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ayush78-hp/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/ayush78-hp/Leetcode/tree/master/0189-rotate-array) |
+| [0219-contains-duplicate-ii](https://github.com/ayush78-hp/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0274-h-index](https://github.com/ayush78-hp/Leetcode/tree/master/0274-h-index) |
 | [0380-insert-delete-getrandom-o1](https://github.com/ayush78-hp/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0436-find-right-interval](https://github.com/ayush78-hp/Leetcode/tree/master/0436-find-right-interval) |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/ayush78-hp/Leetcode/tree/master/0001-two-sum) |
 | [0012-integer-to-roman](https://github.com/ayush78-hp/Leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/ayush78-hp/Leetcode/tree/master/0013-roman-to-integer) |
+| [0219-contains-duplicate-ii](https://github.com/ayush78-hp/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0380-insert-delete-getrandom-o1](https://github.com/ayush78-hp/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 ## Dynamic Programming
 |  |
@@ -182,5 +184,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0219-contains-duplicate-ii](https://github.com/ayush78-hp/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0658-find-k-closest-elements](https://github.com/ayush78-hp/Leetcode/tree/master/0658-find-k-closest-elements) |
 <!---LeetCode Topics End-->
