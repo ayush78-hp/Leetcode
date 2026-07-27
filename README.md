@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/ayush78-hp/Leetcode/tree/master/0001-two-sum) |
 | [0012-integer-to-roman](https://github.com/ayush78-hp/Leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/ayush78-hp/Leetcode/tree/master/0013-roman-to-integer) |
+| [0202-happy-number](https://github.com/ayush78-hp/Leetcode/tree/master/0202-happy-number) |
 | [0219-contains-duplicate-ii](https://github.com/ayush78-hp/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0380-insert-delete-getrandom-o1](https://github.com/ayush78-hp/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 ## Dynamic Programming
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/ayush78-hp/Leetcode/tree/master/0013-roman-to-integer) |
 | [0069-sqrtx](https://github.com/ayush78-hp/Leetcode/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/ayush78-hp/Leetcode/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/ayush78-hp/Leetcode/tree/master/0202-happy-number) |
 | [0380-insert-delete-getrandom-o1](https://github.com/ayush78-hp/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0441-arranging-coins](https://github.com/ayush78-hp/Leetcode/tree/master/0441-arranging-coins) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/ayush78-hp/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -97,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/ayush78-hp/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ayush78-hp/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/ayush78-hp/Leetcode/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/ayush78-hp/Leetcode/tree/master/0202-happy-number) |
 | [0392-is-subsequence](https://github.com/ayush78-hp/Leetcode/tree/master/0392-is-subsequence) |
 | [0658-find-k-closest-elements](https://github.com/ayush78-hp/Leetcode/tree/master/0658-find-k-closest-elements) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/ayush78-hp/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
