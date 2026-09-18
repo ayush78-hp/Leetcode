@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/ayush78-hp/Leetcode/tree/master/0013-roman-to-integer) |
 | [0202-happy-number](https://github.com/ayush78-hp/Leetcode/tree/master/0202-happy-number) |
 | [0219-contains-duplicate-ii](https://github.com/ayush78-hp/Leetcode/tree/master/0219-contains-duplicate-ii) |
+| [0242-valid-anagram](https://github.com/ayush78-hp/Leetcode/tree/master/0242-valid-anagram) |
 | [0380-insert-delete-getrandom-o1](https://github.com/ayush78-hp/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 ## Dynamic Programming
 |  |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/ayush78-hp/Leetcode/tree/master/0015-3sum) |
 | [0047-permutations-ii](https://github.com/ayush78-hp/Leetcode/tree/master/0047-permutations-ii) |
 | [0075-sort-colors](https://github.com/ayush78-hp/Leetcode/tree/master/0075-sort-colors) |
+| [0242-valid-anagram](https://github.com/ayush78-hp/Leetcode/tree/master/0242-valid-anagram) |
 | [0274-h-index](https://github.com/ayush78-hp/Leetcode/tree/master/0274-h-index) |
 | [0436-find-right-interval](https://github.com/ayush78-hp/Leetcode/tree/master/0436-find-right-interval) |
 | [0658-find-k-closest-elements](https://github.com/ayush78-hp/Leetcode/tree/master/0658-find-k-closest-elements) |
@@ -115,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/ayush78-hp/Leetcode/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/ayush78-hp/Leetcode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/ayush78-hp/Leetcode/tree/master/0151-reverse-words-in-a-string) |
+| [0242-valid-anagram](https://github.com/ayush78-hp/Leetcode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/ayush78-hp/Leetcode/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/ayush78-hp/Leetcode/tree/master/0392-is-subsequence) |
 ## Binary Search
